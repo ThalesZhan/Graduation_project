@@ -1,0 +1,4 @@
+The number of samples of unnormal rice : 1096
+The number of samples of normal rice : 841
+The number of unnormal rice being recognization : 1027  The correct rate : 0.937044
+The number of normal rice being recognization : 838  The correct rate : 0.996433

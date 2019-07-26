@@ -1,0 +1,4 @@
+The number of samples of chalky rice : 981
+The number of samples of normal rice : 841
+The number of chalky rice being recognization : 887  The correct rate : 0.904179
+The number of normal rice being recognization : 786  The correct rate : 0.934602
